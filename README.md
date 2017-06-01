@@ -1,4 +1,4 @@
-# WARNING: This repo has been modified to create the database if it doesn't exist, so don't use it unless you know wht you're doing!!!
+# WARNING: This repo has been modified to create the database if it doesn't exist, so don't use it unless you know what you're doing!!!
 
 # Heroku Buildpack for Ruby
 ![ruby](https://cloud.githubusercontent.com/assets/51578/13712725/3c6b3368-e793-11e5-83c1-728440111358.png)
